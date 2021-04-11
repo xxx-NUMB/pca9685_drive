@@ -1,0 +1,22 @@
+{
+    "name": "PCA9685_drive",
+    "version": "0.0.0",
+    "description": "PCA9685 LED、Server、Motor Diver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "PCA9685_drive.ts",
+        "_locales/zh/PCA9685_drive-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

@@ -1,0 +1,35 @@
+{
+	"Dir.forward|block": "前进",
+	"Dir.backward|block": "后退",
+	"Dir.turnRight|block": "右转",
+	"Dir.turnLeft|block": "左转",
+	"Dir.stop|block": "停止",
+
+	"Servos.servo1|block": "舵机1",
+	"Servos.servo2|block": "舵机2",
+	"Servos.servo3|block": "舵机3",
+	"Servos.servo4|block": "舵机4",
+	"Servos.servo5|block": "舵机5",
+
+	
+	"StopMODE.M1_Stop|block": "M1",
+	"StopMODE.M2_Stop|block": "M2",
+	"StopMODE.M_All|block": "所有",
+
+
+	"PCA9685_drive|block":"小车9685",
+	"PCA9685_drive.Servo_Run|block": "设置 %channel 的角度为 %degree",
+	"PCA9685_drive.ServoPulse|block": "设置|%channel 的脉冲为 %pulse",
+	"PCA9685_drive.LedRun|block": "|%index |亮度为 %light",
+	"PCA9685_drive.MotorRun|block": "电机|%index|速度 %speed",
+	"PCA9685_drive.Run|block": "电机 %index|速度 %speed",
+	"PCA9685_drive.RunDelay|block": "电机 %index|速度 %speed|持续%time|秒",
+	"PCA9685_drive.RunStop|block": "|%mode |电机停止",
+	"PCA9685_drive.Ultrasonic|block": "超声波引脚 |trig %trig |echo %echo",
+	"PCA9685_drive.SensorCalibrated|block": "循迹传感器校准",
+	"PCA9685_drive.readLine|block": "获取线位置",
+	"PCA9685_drive.AnalogRead|block": "循迹数值",
+	"PCA9685_drive.readCalibrated|block": "循迹校准数值",
+	"PCA9685_drive.ReadSensorMax|block": "循迹最大值",
+	"PCA9685_drive.ReadSensorMin|block": "循迹最小值"
+}
